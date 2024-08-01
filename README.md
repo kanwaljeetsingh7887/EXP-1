@@ -10,7 +10,7 @@ _**To print "Hello World", create a calculator program and understand the follow
  Guide beginners on how to compile and run a C++ program, providing a practical introduction to using a C++ compiler (e.g., g++).
 
 ## **Software:** 
- VSCode
+`Microsoft VSCode`
 
 
 ## Theory:
