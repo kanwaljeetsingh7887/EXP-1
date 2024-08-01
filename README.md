@@ -1,7 +1,7 @@
-# EXP 1
+ # EXP 1
 
 ## Aim:
-**To print "Hello World" and study the following concepts:**
+_**To print "Hello World" and study the following concepts:**_
 + **Introduce Basic C++ Syntax:**
  Demonstrate the fundamental structure of a C++ program, including header inclusion, the main() function, and the use of the return statement.
 + **Teach Basic Input/Output:** 
@@ -9,8 +9,12 @@
 + **Familiarize with C++ Compilation Process:**
  Guide beginners on how to compile and run a C++ program, providing a practical introduction to using a C++ compiler (e.g., g++).
 
+## **Software:** 
+ VSCode
+
+
 ## Theory:
-The "Hello, World!" program is often the first program written by beginners because it introduces key concepts like syntax, functions, input/output, and the compilation process. Understanding this basic program lays a strong foundation for learning more complex C++ programming concepts.
+_The "Hello, World!" program is often the first program written by beginners because it introduces key concepts like syntax, functions, input/output, and the compilation process. Understanding this basic program lays a strong foundation for learning more complex C++ programming concepts._
 
 ### Structure of a C++ Program is as follows:
 + **Preprocessor Directives:** The line `#include <iostream>` is a preprocessor directive that tells the compiler to include the input-output stream library (iostream) in the program. This library allows us to use std::cout to print text to the console.
@@ -30,6 +34,8 @@ int main(){
 }
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/dedc5068-16e6-4deb-a7fa-f21098f34806)
+
 
 
 
