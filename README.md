@@ -1,7 +1,7 @@
  # EXP 1
 
 ## Aim:
-_**To print "Hello World", create a calculator program and understand study the following concepts:**_
+_**To print "Hello World", create a calculator program and understand the following concepts:**_
 + **Introduce Basic C++ Syntax:**
  Demonstrate the fundamental structure of a C++ program, including header inclusion, the main() function, and the use of the return statement.
 + **Teach Basic Input/Output:** 
