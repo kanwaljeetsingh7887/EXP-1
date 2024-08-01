@@ -22,8 +22,9 @@ _The "Hello, World!" program is often the first program written by beginners bec
 + **Standard Output Stream (std::cout):** The std::cout object is part of the C++ standard library and is used to output text to the console. The `<< operator` is used to send data to std::cout. In this program, "Hello, World!" is sent to the console, followed by std::endl, which inserts a newline character.
 + **Return Statement:** The return 0; statement indicates that the program has executed successfully. In C++, returning 0 from the main() function is a convention that signals to the operating system that the program completed without errors.
 
-## Code:
-```//KANWALJEET SINGH
+## Code 1:(Hello World)
+```
+//KANWALJEET SINGH
 //23070123124
 //ENTCB2
 //EXP 1
@@ -33,10 +34,37 @@ int main(){
     return 0;
 }
 ```
-## Conclusion:
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/dedc5068-16e6-4deb-a7fa-f21098f34806)
+
+## Code 2:(Caluclator Program)
+```
+//KANWALJEET SINGH
+//23070123124
+//ENTC B2
+//EXP 1B
+#include<iostream>
+using namespace std;
+int main() {
+int n1, n2, sum=0, sub, prod, div;
+cout<<"Enter first number."; 
+cin>>n1;
+cout<<"Enter second number.";
+cin>>n2;
+sum=n1+n2;
+cout<<"Sum of the numbers is: "<<sum<<"\n"; 
+sub=n1-n2;
+cout<<"Difference of the numbers is: "<<sub<<"\n"; 
+prod=n1*n2;
+cout<<"Product of the numbers is: "<<prod<<"\n"; 
+div=n1/n2;
+cout<<"Quotient is: "<<div<<"\n";
+return 0;
+}
+```
+## Output:
+![image](https://github.com/user-attachments/assets/cd8b65c7-95b4-4b7e-ba61-fcbd11865d19)
+
 
 
 
