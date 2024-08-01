@@ -1,19 +1,23 @@
-# EXP-1
-# Hello World in C++
+# EXP 1
 
-This repository contains a simple program written in C++ that prints "Hello, World!" to the console.
+### **Aim:** To print "Hello World" and study the following concepts:
++ **Introduce Basic C++ Syntax:**
+ Demonstrate the fundamental structure of a C++ program, including header inclusion, the main() function, and the use of the return statement.
++ **Teach Basic Input/Output:** 
+ Show how to use the std::cout stream to print text to the console, introducing standard output handling in C++.
++ **Familiarize with C++ Compilation Process:**
+ Guide beginners on how to compile and run a C++ program, providing a practical introduction to using a C++ compiler (e.g., g++).
 
-## How to Run
+### Theory:
+The "Hello, World!" program is often the first program written by beginners because it introduces key concepts like syntax, functions, input/output, and the compilation process. Understanding this basic program lays a strong foundation for learning more complex C++ programming concepts.
 
-### Prerequisites
+#### Structure of a C++ Program is as follows:
++ **Preprocessor Directives:** The line `#include <iostream>` is a preprocessor directive that tells the compiler to include the input-output stream library (iostream) in the program. This library allows us to use std::cout to print text to the console.
++ **The main() Function:** The main() function is the entry point of every C++ program. It’s where the execution begins. The function has a return type of int, indicating that it returns an integer value. In this case, it returns 0 to indicate successful execution.
++ **Standard Output Stream (std::cout):** The std::cout object is part of the C++ standard library and is used to output text to the console. The `<< operator` is used to send data to std::cout. In this program, "Hello, World!" is sent to the console, followed by std::endl, which inserts a newline character.
++ **Return Statement:** The return 0; statement indicates that the program has executed successfully. In C++, returning 0 from the main() function is a convention that signals to the operating system that the program completed without errors.
 
-You need a C++ compiler installed on your machine. Some common options are:
-
-- `g++` (GNU Compiler Collection) for Linux/macOS.
-- `Visual C++` for Windows.
-- `Clang` for macOS/Linux.
-
-### Steps
+### Code:
 
 1. **Clone the Repository**
 
